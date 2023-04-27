@@ -1,0 +1,2 @@
+# botWG
+sample bot
